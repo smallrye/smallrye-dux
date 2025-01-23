@@ -44,7 +44,7 @@
         <!-- override the testcontainers version with the newest one -->
         <version.testcontainers>1.20.4</version.testcontainers>
 
-        <kubernetes-client.version>6.13.4</kubernetes-client.version>
+        <kubernetes-client.version>7.0.1</kubernetes-client.version>
         <!-- we cannot update to 2.x as jboss-logging does not support SLF4J 2 for now -->
         <version.slf4j>2.0.16</version.slf4j>
         <version.mockito>5.2.0</version.mockito>
