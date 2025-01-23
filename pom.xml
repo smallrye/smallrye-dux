@@ -34,7 +34,7 @@
     <properties>
         <maven.compiler.release>17</maven.compiler.release>
 
-        <version.assertj>3.27.2</version.assertj>
+        <version.assertj>3.27.3</version.assertj>
         <version.microprofile-config-api>3.1</version.microprofile-config-api>
         <version.mutiny>2.8.0</version.mutiny>
         <version.smallrye-config>3.11.1</version.smallrye-config>
